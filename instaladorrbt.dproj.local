@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/04 14:23:52.000.769,=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 15:29:22.000.779,C:\Users\Junior\Documents\Instalador RBT\DCU\u_install.pas=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/04 15:29:22.000.779,C:\Users\Junior\Documents\Instalador RBT\DCU\u_install.dfm=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/04/04 15:29:59.000.971,C:\Users\Junior\Documents\Instalador RBT\Projeto\instaladorrbt.dproj=C:\Users\Junior\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
